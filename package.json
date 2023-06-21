@@ -25,7 +25,7 @@
   "dependencies": {
     "@digitalbazaar/http-client": "^3.2.0",
     "@digitalbazaar/http-signature-zcap-invoke": "^6.0.0",
-    "@digitalbazaar/zcap": "^9.0.0",
+    "@digitalbazaar/zcap": "https://github.com/dogwoodlogic/zcap#crypto-global-this",
     "jsonld-signatures": "https://github.com/dogwoodlogic/jsonld-signatures#crypto-global-this",
     "uuid": "^8.3.2"
   },
